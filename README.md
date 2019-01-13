@@ -1,6 +1,8 @@
 # v-besttorso
 
-This resource aims to help people find proper torsos for a freemode character top item (component ID 11).
+This resource aims to help people find proper torsos for a freemode character top item (component ID 11). So this ugly clipping doesn't happen:
+
+![Disgusting!](https://raw.githubusercontent.com/root-cause/v-besttorso/master/ClippingExample.jpg)
 
 This resource only provides "the best" torso for a specified top item, it will not help with:
 
