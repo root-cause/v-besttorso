@@ -34,7 +34,7 @@ mp.events.addCommand("settop", (player, _, drawable, texture) => {
                     player.outputChatBox("Invalid top drawable/texture.");
                 } else {
                     player.setClothes(11, drawable, texture, 2);
-                    if (torsoDataMale[drawable][texture] != -1) player.setClothes(3, torsoDataMale[drawable][texture].BestTorsoDrawable, torsoDataMale[drawable][texture].BestTorsoTexture, 2);
+                    if (torsoDataMale[drawable][texture].BestTorsoDrawable != -1) player.setClothes(3, torsoDataMale[drawable][texture].BestTorsoDrawable, torsoDataMale[drawable][texture].BestTorsoTexture, 2);
                 }
             } else {
                 // female
@@ -42,7 +42,7 @@ mp.events.addCommand("settop", (player, _, drawable, texture) => {
                     player.outputChatBox("Invalid top drawable/texture.");
                 } else {
                     player.setClothes(11, drawable, texture, 2);
-                    if (torsoDataFemale[drawable][texture] != -1) player.setClothes(3, torsoDataFemale[drawable][texture].BestTorsoDrawable, torsoDataFemale[drawable][texture].BestTorsoTexture, 2);
+                    if (torsoDataFemale[drawable][texture].BestTorsoDrawable != -1) player.setClothes(3, torsoDataFemale[drawable][texture].BestTorsoDrawable, torsoDataFemale[drawable][texture].BestTorsoTexture, 2);
                 }
             }
         }
