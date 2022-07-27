@@ -18404,5 +18404,955 @@
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
+    },
+    "415": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "416": {
+        "0": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "20": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "21": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "22": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "23": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "24": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "25": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        }
+    },
+    "417": {
+        "0": {
+            "BestTorsoDrawable": 7,
+            "BestTorsoTexture": 0
+        }
+    },
+    "418": {
+        "0": {
+            "BestTorsoDrawable": 131,
+            "BestTorsoTexture": 0
+        }
+    },
+    "419": {
+        "0": {
+            "BestTorsoDrawable": 7,
+            "BestTorsoTexture": 0
+        }
+    },
+    "420": {
+        "0": {
+            "BestTorsoDrawable": 131,
+            "BestTorsoTexture": 0
+        }
+    },
+    "421": {
+        "0": {
+            "BestTorsoDrawable": 242,
+            "BestTorsoTexture": 0
+        }
+    },
+    "422": {
+        "0": {
+            "BestTorsoDrawable": 7,
+            "BestTorsoTexture": 0
+        }
+    },
+    "423": {
+        "0": {
+            "BestTorsoDrawable": 131,
+            "BestTorsoTexture": 0
+        }
+    },
+    "424": {
+        "0": {
+            "BestTorsoDrawable": 1,
+            "BestTorsoTexture": 0
+        }
+    },
+    "425": {
+        "0": {
+            "BestTorsoDrawable": 7,
+            "BestTorsoTexture": 0
+        }
+    },
+    "426": {
+        "0": {
+            "BestTorsoDrawable": 131,
+            "BestTorsoTexture": 0
+        }
+    },
+    "427": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "428": {
+        "0": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 5,
+            "BestTorsoTexture": 0
+        }
+    },
+    "429": {
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "20": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "21": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "22": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "23": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "24": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "25": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "430": {
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "431": {
+        "0": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        }
+    },
+    "432": {
+        "0": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        }
+    },
+    "433": {
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "20": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "21": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "22": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "23": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "24": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "25": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "434": {
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "20": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "21": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "435": {
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "436": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "437": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "438": {
+        "0": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "20": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "21": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "22": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "23": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "24": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        },
+        "25": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        }
+    },
+    "439": {
+        "0": {
+            "BestTorsoDrawable": 11,
+            "BestTorsoTexture": 0
+        }
+    },
+    "440": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "441": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "442": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "443": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "444": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "445": {
+        "0": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "446": {
+        "0": {
+            "BestTorsoDrawable": 7,
+            "BestTorsoTexture": 0
+        }
+    },
+    "447": {
+        "0": {
+            "BestTorsoDrawable": 8,
+            "BestTorsoTexture": 0
+        }
+    },
+    "448": {
+        "0": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        }
+    },
+    "449": {
+        "0": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        }
     }
 }
